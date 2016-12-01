@@ -1,0 +1,181 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "实验二_图书信息列表设计(1)", "实验二_图书信息列表设计\", "{40959E0B-150E-47F3-B9C3-ED52F978F1E4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62341"
+		Debug.AspNetCompiler.PhysicalPath = "实验二_图书信息列表设计\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62341\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62341"
+		Release.AspNetCompiler.PhysicalPath = "实验二_图书信息列表设计\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62341\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62341"
+		SlnRelativePath = "实验二_图书信息列表设计\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "实验一_用户注册功能设计(1)", "实验一_用户注册功能设计\", "{CAD283E8-8523-47F1-AE71-71775A933FA5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62636"
+		Debug.AspNetCompiler.PhysicalPath = "实验一_用户注册功能设计\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62636\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62636"
+		Release.AspNetCompiler.PhysicalPath = "实验一_用户注册功能设计\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62636\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62636"
+		SlnRelativePath = "实验一_用户注册功能设计\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "实验一_2_基于Cookies的系统登录页面设计(2)", "实验一_2_基于Cookies的系统登录页面设计\", "{59BD07CB-04F6-4A7A-977D-6B77E96F7964}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59946"
+		Debug.AspNetCompiler.PhysicalPath = "实验一_2_基于Cookies的系统登录页面设计\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59946\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59946"
+		Release.AspNetCompiler.PhysicalPath = "实验一_2_基于Cookies的系统登录页面设计\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59946\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59946"
+		SlnRelativePath = "实验一_2_基于Cookies的系统登录页面设计\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "实验三_聊天室系统设计1", "实验三_聊天室系统设计1\", "{C993F8C6-408C-4995-A87F-D2938DC5FE58}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51674"
+		Debug.AspNetCompiler.PhysicalPath = "实验三_聊天室系统设计1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51674\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51674"
+		Release.AspNetCompiler.PhysicalPath = "实验三_聊天室系统设计1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51674\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51674"
+		SlnRelativePath = "实验三_聊天室系统设计1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "实验四_聊天室系统设计2", "实验四_聊天室系统设计2\", "{19C60680-1B72-442C-A7B6-EA5AF06F833B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50758"
+		Debug.AspNetCompiler.PhysicalPath = "实验四_聊天室系统设计2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50758\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50758"
+		Release.AspNetCompiler.PhysicalPath = "实验四_聊天室系统设计2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50758\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50758"
+		SlnRelativePath = "实验四_聊天室系统设计2\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "实验五_三层架构选课管理系统设计1", "实验五_三层架构选课管理系统设计1\", "{12BCEA6A-2935-48B2-861F-68DECBE45022}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59267"
+		Debug.AspNetCompiler.PhysicalPath = "实验五_三层架构选课管理系统设计1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59267\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59267"
+		Release.AspNetCompiler.PhysicalPath = "实验五_三层架构选课管理系统设计1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59267\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59267"
+		SlnRelativePath = "实验五_三层架构选课管理系统设计1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "实验六_三层架构选课管理系统设计2", "实验六_三层架构选课管理系统设计2\", "{D609E019-D0BF-4F35-8A94-D2E6D123F548}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49224"
+		Debug.AspNetCompiler.PhysicalPath = "实验六_三层架构选课管理系统设计2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49224\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49224"
+		Release.AspNetCompiler.PhysicalPath = "实验六_三层架构选课管理系统设计2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49224\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49224"
+		SlnRelativePath = "实验六_三层架构选课管理系统设计2\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40959E0B-150E-47F3-B9C3-ED52F978F1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40959E0B-150E-47F3-B9C3-ED52F978F1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD283E8-8523-47F1-AE71-71775A933FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD283E8-8523-47F1-AE71-71775A933FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BD07CB-04F6-4A7A-977D-6B77E96F7964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BD07CB-04F6-4A7A-977D-6B77E96F7964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C993F8C6-408C-4995-A87F-D2938DC5FE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C993F8C6-408C-4995-A87F-D2938DC5FE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C60680-1B72-442C-A7B6-EA5AF06F833B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C60680-1B72-442C-A7B6-EA5AF06F833B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BCEA6A-2935-48B2-861F-68DECBE45022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BCEA6A-2935-48B2-861F-68DECBE45022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D609E019-D0BF-4F35-8A94-D2E6D123F548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D609E019-D0BF-4F35-8A94-D2E6D123F548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
